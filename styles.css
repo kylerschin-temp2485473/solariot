@@ -1,0 +1,31 @@
+body div {
+    border: 1px solid  black;
+}
+.solarViewer {
+    text-align: center;
+}
+#batteryPowerDisplay, #solarRatesDisplay, #energyAvailable{
+    width:100px;
+    height:100px;
+    margin: auto;
+}
+header {
+    display:block;
+    margin:auto;
+    width:30%;
+    text-align:center;
+}
+#logo {
+    width: 100%;
+}
+footer {
+    width: 100%;
+}
+#left-footer{
+    text-align: left;
+    position: absolute;
+}
+
+#right-footer{
+    text-align: right;
+}
